@@ -134,12 +134,12 @@ testBox.add("jQuery").remove("jQuery");
 ## 图片 Images
 
 
-![赞助我](https://i.dawnlab.me/ee0093ead3ca8145522ba766c3f9a0ee.png)
+<!-- ![赞助我](https://i.dawnlab.me/ee0093ead3ca8145522ba766c3f9a0ee.png) -->
 
 
 图片加链接 (Image + Link)：
 
-[![](https://i.dawnlab.me/ee0093ead3ca8145522ba766c3f9a0ee.png)](https://nexmoe.com/donate.html "赞助我")
+<!-- [![](https://i.dawnlab.me/ee0093ead3ca8145522ba766c3f9a0ee.png)](https://nexmoe.com/donate.html "赞助我") -->
 
 ----
 
